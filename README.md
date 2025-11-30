@@ -17,7 +17,7 @@ A **Deep Learning model (LSTM)** has been trained for text sentiment classificat
 ## 🤖 Model Details
 - Architecture: **LSTM**
 - Framework: **TensorFlow**
-- Final output: **Binary classification - Positive / Negative**
+- Final output: **Binary classification - Positive/Negative**
 
 ---
 
